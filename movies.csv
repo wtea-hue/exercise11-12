@@ -1,0 +1,52 @@
+movie_id,title,year,genre,rating,runtime_minutes,director
+1,Enola Holmes,2020,Mystery,6.7,123,Harry Bradbeer
+2,Nomadland,2020,Drama,7.3,107,Chloé Zhao
+3,Palm Springs,2020,Comedy,7.4,90,Max Barbakow
+4,Sonic the Hedgehog,2020,Comedy,6.5,99,Jeff Fowler
+5,Soul,2020,Animation,8.0,100,Pete Docter; Kemp Powers
+6,Tenet,2020,Sci-Fi,7.3,150,Christopher Nolan
+7,The Father,2020,Drama,8.2,97,Florian Zeller
+8,The Trial of the Chicago 7,2020,Drama,7.7,129,Aaron Sorkin
+9,Wonder Woman 1984,2020,Action,5.3,151,Patty Jenkins
+10,A Quiet Place Part II,2021,Horror,7.2,97,John Krasinski
+11,Don't Look Up,2021,Comedy,7.1,138,Adam McKay
+12,Dune,2021,Sci-Fi,8.0,155,Denis Villeneuve
+13,Free Guy,2021,Comedy,7.1,115,Shawn Levy
+14,No Time to Die,2021,Action,7.3,163,Cary Joji Fukunaga
+15,Nobody,2021,Action,7.4,92,Ilya Naishuller
+16,Shang-Chi and the Legend of the Ten Rings,2021,Action,7.3,132,Destin Daniel Cretton
+17,Spider-Man: No Way Home,2021,Action,8.1,148,Jon Watts
+18,The Suicide Squad,2021,Action,7.2,132,James Gunn
+19,Avatar: The Way of Water,2022,Sci-Fi,7.5,192,James Cameron
+20,Doctor Strange in the Multiverse of Madness,2022,Fantasy,6.8,126,Sam Raimi
+21,Everything Everywhere All at Once,2022,Sci-Fi,7.7,139,Daniel Kwan; Daniel Scheinert
+22,The Batman,2022,Action,7.8,176,Matt Reeves
+23,Top Gun: Maverick,2022,Action,8.2,130,Joseph Kosinski
+24,Barbie,2023,Comedy,6.8,114,Greta Gerwig
+25,Guardians of the Galaxy Vol. 3,2023,Sci-Fi,7.9,150,James Gunn
+26,John Wick: Chapter 4,2023,Action,7.6,169,Chad Stahelski
+27,Mission: Impossible - Dead Reckoning Part One,2023,Action,7.6,163,Christopher McQuarrie
+28,Oppenheimer,2023,Biography,8.2,180,Christopher Nolan
+29,Poor Things,2023,Comedy,7.7,141,Yorgos Lanthimos
+30,Spider-Man: Across the Spider-Verse,2023,Animation,8.5,140,Joaquim Dos Santos; Kemp Powers; Justin K. Thompson
+31,The Holdovers,2023,Drama,7.9,133,Alexander Payne
+32,Anora,2024,Drama,7.4,139,Sean Baker
+33,Beetlejuice Beetlejuice,2024,Comedy,6.6,105,Tim Burton
+34,Deadpool & Wolverine,2024,Action,7.5,128,Shawn Levy
+35,Dune: Part Two,2024,Sci-Fi,8.4,166,Denis Villeneuve
+36,Inside Out 2,2024,Animation,7.5,96,Kelsey Mann
+37,The Wild Robot,2024,Animation,8.1,102,Chris Sanders
+38,Wicked,2024,Musical,7.3,160,Jon M. Chu
+39,One Battle After Another,2025,Thriller,7.6,161,Paul Thomas Anderson
+40,Sinners,2025,Horror,7.5,137,Ryan Coogler
+41,Snow White,2025,Fantasy,2.2,109,Marc Webb
+42,Superman,2025,Action,7.0,129,James Gunn
+43,Weapons,2025,Horror,7.4,128,Zach Cregger
+44,Hoppers,2026,Animation,7.2,104,Daniel Chong
+45,Project Hail Mary,2026,Sci-Fi,8.2,156,Phil Lord; Christopher Miller
+46,Scream 7,2026,Horror,5.4,114,Kevin Williamson
+47,Send Help,2026,Horror,6.7,113,Sam Raimi
+48,Spider-Man: Brand New Day,2026,Action,8.0,145,Destin Daniel Cretton
+49,The Devil Wears Prada 2,2026,Comedy,6.3,119,David Frankel
+50,The Odyssey,2026,Adventure,8.4,172,Christopher Nolan
+51,The Super Mario Galaxy Movie,2026,Animation,6.2,98,Aaron Horvath; Michael Jelenic; Pierre Leduc

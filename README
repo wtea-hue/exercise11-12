@@ -1,0 +1,25 @@
+The file movies.csv contains information about movies released between 2020 and 2026. Each movie has a unique ID, title, year, genre, rating, runtime, and director.
+
+Part 1: Read movie data
+
+Complete the function read_movies(filename) to read the CSV file and create two dictionaries:
+- titles: maps a movie ID (integer) to its title 
+- ratings: maps a movie ID (integer) to its rating 
+
+Use with open() to read the file, skip the first line using file.readline(), and use split(",") to separate the fields. Do not use the csv module.
+
+
+Part 2: Implement two functions
+
+Function 1: get_movie_title(movie_id, titles)
+
+Return the title of the movie with the given ID. If the movie does not exist, return "Movie not found".
+
+Function 2: get_highly_rated_movies(min_rating, titles, ratings)
+
+Return a list of titles of movies with ratings greater than or equal to min_rating.
+
+For example, calling get_highly_rated_movies(8.4, titles, ratings) should return a list containing:
+
+["Spider-Man: Across the Spider-Verse", "Dune: Part Two", "The Odyssey"]
+
